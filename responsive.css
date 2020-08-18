@@ -1,0 +1,71 @@
+@media (max-width: 1120px){
+	.h-r-btn {
+    width: 30%;
+	}
+	.h-r-pass{
+		margin:0 2%;
+	}
+}
+@media (max-width:994px){
+	.h-r-pass a {
+		font-size: 12px;
+	}
+}
+
+@media (max-width:768px){
+	.header-left {
+		text-align:center;
+		width: 100%;
+		float: none;
+	}
+	.header-left img {
+		margin-left: 0;
+
+	}
+	.header-right {
+		width: 100%;
+		float: none;
+	}
+	.header-area {
+		height: 220px;
+	}
+	.h-r-mail {
+		width: 100%;
+		float: none;
+		text-align: center;
+	}
+	.h-r-mail label {
+		margin-top: 10px;
+		margin-bottom: 6px;
+		font-size: 16px;
+		display: block;
+	}
+	.h-r-mail input {
+		width: 40%;
+		height: 26px;
+	}
+	.h-r-pass {
+		margin: 0 2%;
+	}
+}
+
+
+@media (max-width:1262px){
+	.bodytext-1 img {
+    margin-left: 20px;
+}
+
+.bodytext-1 h3 {
+   
+    margin-left: 5%;
+}
+
+
+}
+
+
+
+
+
+
+
